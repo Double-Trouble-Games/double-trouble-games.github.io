@@ -3,8 +3,8 @@
 ## Section header filters: flavor: demo|live   versions: 140-147 | 140+ | -147 | 147   (omit either to show everywhere)
 
 === id: playtest-welcome
-<b><color=#FFDD44>Thank you for participating in this Playtest!</color></b>
----REMOTE TEST---
+<b><color=#FFDD44>Thank you for participating in the Playtest!</color></b>
+
 The primary purpose of the current test is to ensure the game is stable on a variety of systems, and no hard gating bugs or data corruption issues exist.
 
 While the final release extends to 100, hero levels in the Demo are hard capped at 35, and you are unable to progress beyond Sinister Shoals.
