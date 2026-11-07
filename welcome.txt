@@ -1,0 +1,17 @@
+#format 1
+## Main menu welcome text. Edit with Tools/JWoe Tools/Welcome Message Editor; format spec in Docs/RemoteWelcome.md.
+## Section header filters: flavor: demo|live   versions: 140-147 | 140+ | -147 | 147   (omit either to show everywhere)
+
+=== id: playtest-welcome
+<b><color=#FFDD44>Thank you for participating in this Playtest!</color></b>
+
+The primary purpose of the current test is to ensure the game is stable on a variety of systems, and no hard gating bugs or data corruption issues exist.
+
+While the final release extends to 100, hero levels in the Demo are hard capped at 35, and you are unable to progress beyond Sinister Shoals.
+
+=== id: known-issues
+<b><color=#EE6666>General Notes and Known Issues</color></b>
+If you encounter any targeting difficulties due to the new hitbox change, <b><color=#FF8811>please report</color></b> them to me. See Patch Notes for more info.
+
+=== id: audio-news
+<size=130%><b><color=#EE2222>Audio Now Available: Adjust Volume Settings!</color></b></size>
