@@ -3,9 +3,13 @@
 ## Section header filters: flavor: demo|live   versions: 140-147 | 140+ | -147 | 147   (omit either to show everywhere)
 
 === id: playtest-welcome
-<b><color=#FFDD44>Welcome to the Idle Misadventures Demo!</color></b>
-Thanks for checking the game out! Demo content will take you through 35 levels' worth  of hero progression, all the way to the Sinister Shoals. The full game goes to level 100, with roughly twice again as many areas.
+<b><color=#FFDD44>Welcome to Idle Misadventures</color></b>
+Thanks for checking it out, I'm excited to finally be able to share! Demo content will take you through 35 levels' worth of hero progression, all the way to the Sinister Shoals. The full game will extend the experience to level 100, with additional areas and stats, as well as new mechanics.
+
+=== id: roadmap
+<b><color=#FF8C42>Future Plans</color></b>
+Localization and controller support are both planned in the near future, as is Steam Deck compatibility.
 
 === id: known-issues
 <b><color=#EE6666>General Notes and Known Issues</color></b>
-See Patch Notes for general issues and fixes. If anything larger pops up, I'll note it here. Please use the Bug Report feature if you encounter any issues.
+See Patch Notes for general issues and fixes. If anything larger arises, I'll note it here. Please use the Bug Report feature if you encounter any issues.
