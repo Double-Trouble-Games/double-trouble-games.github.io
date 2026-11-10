@@ -12,4 +12,4 @@ Localization and controller support are both planned in the near future, as is S
 
 === id: known-issues
 <b><color=#EE6666>General Notes and Known Issues</color></b>
-See Patch Notes for general issues and fixes. If anything larger arises, I'll note it here. Please use the Bug Report feature if you encounter any issues.
+See Patch Notes for general info and recent fixes. If anything larger arises, I'll note it here. Please use the Bug Report feature if you encounter any issues.
