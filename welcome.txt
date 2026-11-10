@@ -3,16 +3,9 @@
 ## Section header filters: flavor: demo|live   versions: 140-147 | 140+ | -147 | 147   (omit either to show everywhere)
 
 === id: playtest-welcome
-<b><color=#FFDD44>Thank you for participating in the Playtest!</color></b>
-The primary purpose of the current test is to ensure the game is stable on a variety of systems, and no hard gating bugs or data corruption issues exist.
-
-Full game goes to 100, but hero levels in the Demo are hard capped at 35, and the final area you may access is Sinister Shoals.
+<b><color=#FFDD44>Welcome to the Idle Misadventures Demo!</color></b>
+Thanks for checking the game out! Demo content will take you through 35 levels' worth  of hero progression, all the way to the Sinister Shoals. The full game goes to level 100, with roughly twice again as many areas.
 
 === id: known-issues
 <b><color=#EE6666>General Notes and Known Issues</color></b>
-If you encounter any targeting difficulties due to the new hitbox change, <b><color=#FF8811>please report</color></b> them to me. See Patch Notes for more info.
-
-Tutorial-Lite system implemented: Previous saves will have all steps incomplete. Interact with the glows, or toggle off in Settings.
-
-=== id: audio-news
-<size=130%><b><color=#EE2222>Audio Now Available: Adjust Volume Settings!</color></b></size>
+See Patch Notes for general issues and fixes. If anything larger pops up, I'll note it here. Please use the Bug Report feature if you encounter any issues.
