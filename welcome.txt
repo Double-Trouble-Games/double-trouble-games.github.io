@@ -1,6 +1,6 @@
 #format 1
 ## Main menu welcome text. Edit with Tools/JWoe Tools/Welcome Message Editor; format spec in Docs/RemoteWelcome.md.
-## Section header filters: flavor: demo|live   versions: 140-147 | 140+ | -147 | 147   (omit either to show everywhere)
+## Section header filters: flavor: demo|live   versions: 140-148 | 140+ | -148 | 148   (omit either to show everywhere)
 
 === id: playtest-welcome
 <b><color=#FFDD44>Welcome to Idle Misadventures</color></b>
@@ -8,7 +8,7 @@ Thanks for checking it out, I'm excited to finally be able to share! Demo conten
 
 === id: roadmap
 <b><color=#FF8C42>Future Plans</color></b>
-Localization and controller support are both planned in the near future, as is Steam Deck compatibility.
+Localization and controller support are both planned in the near future, as is Steam Deck support (currently works with Proton).
 
 === id: known-issues
 <b><color=#EE6666>General Notes and Known Issues</color></b>
